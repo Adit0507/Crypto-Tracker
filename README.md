@@ -1,4 +1,4 @@
-# Cryto Currency Tracker 🤑
+# Cryto Currency Tracker 
 
 ## Specifications
 
